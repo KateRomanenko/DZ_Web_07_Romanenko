@@ -1,0 +1,15 @@
+/Users/ekaterinaromanenko/Desktop/C Sharp/Hometask_Web07_Romanenko/obj/Debug/net6.0/Hometask_Web07_Romanenko.csproj.AssemblyReference.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/Hometask_Web07_Romanenko/obj/Debug/net6.0/Hometask_Web07_Romanenko.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaromanenko/Desktop/C Sharp/Hometask_Web07_Romanenko/obj/Debug/net6.0/Hometask_Web07_Romanenko.AssemblyInfoInputs.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/Hometask_Web07_Romanenko/obj/Debug/net6.0/Hometask_Web07_Romanenko.AssemblyInfo.cs
+/Users/ekaterinaromanenko/Desktop/C Sharp/Hometask_Web07_Romanenko/obj/Debug/net6.0/Hometask_Web07_Romanenko.csproj.CoreCompileInputs.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/Hometask_Web07_Romanenko/bin/Debug/net6.0/Hometask_Web07_Romanenko
+/Users/ekaterinaromanenko/Desktop/C Sharp/Hometask_Web07_Romanenko/bin/Debug/net6.0/Hometask_Web07_Romanenko.deps.json
+/Users/ekaterinaromanenko/Desktop/C Sharp/Hometask_Web07_Romanenko/bin/Debug/net6.0/Hometask_Web07_Romanenko.runtimeconfig.json
+/Users/ekaterinaromanenko/Desktop/C Sharp/Hometask_Web07_Romanenko/bin/Debug/net6.0/Hometask_Web07_Romanenko.dll
+/Users/ekaterinaromanenko/Desktop/C Sharp/Hometask_Web07_Romanenko/bin/Debug/net6.0/Hometask_Web07_Romanenko.pdb
+/Users/ekaterinaromanenko/Desktop/C Sharp/Hometask_Web07_Romanenko/obj/Debug/net6.0/Hometask_Web07_Romanenko.dll
+/Users/ekaterinaromanenko/Desktop/C Sharp/Hometask_Web07_Romanenko/obj/Debug/net6.0/refint/Hometask_Web07_Romanenko.dll
+/Users/ekaterinaromanenko/Desktop/C Sharp/Hometask_Web07_Romanenko/obj/Debug/net6.0/Hometask_Web07_Romanenko.pdb
+/Users/ekaterinaromanenko/Desktop/C Sharp/Hometask_Web07_Romanenko/obj/Debug/net6.0/Hometask_Web07_Romanenko.genruntimeconfig.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/Hometask_Web07_Romanenko/obj/Debug/net6.0/ref/Hometask_Web07_Romanenko.dll
